@@ -1,6 +1,7 @@
 # Aeternity Stratum Specification for Leafpool
 
 **Authorization**
+
 Miner
 
 
